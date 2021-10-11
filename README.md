@@ -17,7 +17,7 @@ My approach of solving the challenge was:
   <li>I converted the csv to a Pandas Dataframe using python</li>
   <li>I created a python scrip with Selenium to:</li>
   <ul>
-      <li>Get each question</li>
+      <li>Get each question from the web page by xpat</li>
       <li>look fot that question in the dataframe previusly created</li>
       <li>Get the answer of that question from the Dataframe</li>
       <li>Clear the textarea in the challenge site</li>
